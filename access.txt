@@ -1,0 +1,15 @@
+cpanel username : b24_22723897
+password 	: Asdf123
+URL		: cpanel.byethost24.com
+
+mysql username	: b24_22723897
+password 	: Asdf123
+hostname	: sql113.byethost24.com
+
+ftp username 	: b24_22723897
+password	: Asdf123
+host name	: ftp.byethost24.com
+
+database 	: b24_22723897_ltnevents
+
+home page : ltneventssample.byethost24.com

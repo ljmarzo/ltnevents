@@ -1,0 +1,23 @@
+*backend
+-messages[done]
+-contacts[done]
+-reports
+-timeline[done]
+-account maintenance [done]
+-email subscription
+-dashboard[done]
+-validations
+-views
+
+
+
+*frontend
+
+-messages[done]
+-blog[done]
+-timeline
+-account settings[done]
+-pop up email
+-profile[done]
+-comments suggestion
+-instagram

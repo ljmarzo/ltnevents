@@ -1,0 +1,19 @@
+TODO:
+
+1. Messages frontend [done]
+2. Comments and suggestions frontend / backend [done]
+3. Level of access [done]
+4. Reports [done]
+5. Algo
+	-reviews[done]
+	-location [done]
+6. Views [done]
+7. Dashboard [done]
+8. Email subscription [done]
+9. Pop up email [done]
+10. Animations[done]
+11. Upload
+12. Mail
+
+********urgent
+event coor must see clients nya lang[done]
